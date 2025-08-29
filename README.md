@@ -52,7 +52,7 @@ This repository showcases a complete, hands-on AWS deployment:
 ---
 
 ## Repo Info
-- **Suggested Name:** `aws-realtime-website`
+- **Suggested Name:** `nullclass-aws-project`
 - **Short Description:** End-to-end AWS project with EC2, RDS, S3, CloudFront, ASG/ALB, Route 53/ACM, and an e-commerce app.
 
 ---
